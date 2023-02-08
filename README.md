@@ -1,16 +1,16 @@
-### Hi there 👋
+# Welcome to my GitHub Account!
 
-<!--
-**lewismac6543/lewismac6543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm a software developer with a passion for building innovative and efficient solutions.
 
-Here are some ideas to get you started:
+## About Me
+I am a fourth-year Master's student at the University of Sussex, currently studying Mechanical Engineering with Robotics. Strongly interested in programming and software development and currently taking on extracurricular activities to pursue this.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Proficient in Python and C
+- Experienced in Javascript, Java, C#, C++, and MATLAB
+- Familiar with HTML, R
+
+## Contact Me
+If you're interested in working with me or just want to connect, feel free to reach out to me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/lewis-m-8b508513a/)
+
+![Profile Picture](https://media.licdn.com/dms/image/D4E03AQEdEfJM-ic3sQ/profile-displayphoto-shrink_800_800/0/1667834767720?e=1681344000&v=beta&t=HAuYQKH20UGgPlwia7td2ZTR-S9Vt7qOJ05gxkw8dXk)
